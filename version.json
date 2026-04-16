@@ -1,5 +1,14 @@
 {
-  "version": "2.0.0",
-  "downloadUrl": "https://app.lemonsqueezy.com/my-products",
-  "releaseNotes": "- Sistema de licencias implementado\n- Mejoras visuales\n- Corrección de errores"
+  "version": "2.0.1",
+  "releaseDate": "2026-04-16",
+  "downloadUrl": "https://ewicia.lemonsqueezy.com",
+  "changelog": [
+    "✅ Soporte completo Educación Infantil (0-6 años)",
+    "✅ Sistema de naturalidad y variación en informes",
+    "✅ Informe Global para Infantil (todas las áreas)",
+    "✅ Exportación mejorada: un solo PDF con todos los informes",
+    "🐛 Correcciones de estabilidad y rendimiento"
+  ],
+  "mandatory": false,
+  "minVersion": "2.0.0"
 }
